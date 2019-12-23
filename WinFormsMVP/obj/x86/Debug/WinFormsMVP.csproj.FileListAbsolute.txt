@@ -1,0 +1,16 @@
+C:\Users\Xiaomi\Desktop\winforms-mvp-master\winforms-mvp-master\WinFormsMVP\WinFormsMVP\bin\Debug\WinFormsMVP.exe
+C:\Users\Xiaomi\Desktop\winforms-mvp-master\winforms-mvp-master\WinFormsMVP\WinFormsMVP\bin\Debug\WinFormsMVP.pdb
+C:\Users\Xiaomi\Desktop\winforms-mvp-master\winforms-mvp-master\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.csprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\winforms-mvp-master\winforms-mvp-master\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.Properties.Resources.resources
+C:\Users\Xiaomi\Desktop\winforms-mvp-master\winforms-mvp-master\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.View.CustomerForm.resources
+C:\Users\Xiaomi\Desktop\winforms-mvp-master\winforms-mvp-master\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.csproj.GenerateResource.cache
+C:\Users\Xiaomi\Desktop\winforms-mvp-master\winforms-mvp-master\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.exe
+C:\Users\Xiaomi\Desktop\winforms-mvp-master\winforms-mvp-master\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.pdb
+C:\Users\Xiaomi\Desktop\WinFormsMVP\WinFormsMVP\WinFormsMVP\bin\Debug\WinFormsMVP.exe
+C:\Users\Xiaomi\Desktop\WinFormsMVP\WinFormsMVP\WinFormsMVP\bin\Debug\WinFormsMVP.pdb
+C:\Users\Xiaomi\Desktop\WinFormsMVP\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.csprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\WinFormsMVP\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.Properties.Resources.resources
+C:\Users\Xiaomi\Desktop\WinFormsMVP\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.View.CustomerForm.resources
+C:\Users\Xiaomi\Desktop\WinFormsMVP\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.csproj.GenerateResource.cache
+C:\Users\Xiaomi\Desktop\WinFormsMVP\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.exe
+C:\Users\Xiaomi\Desktop\WinFormsMVP\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.pdb

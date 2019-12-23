@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <Name>John</Name>
+    <Currency>Yena</Currency>
+    <Cash>125456</Cash>
+  </Customer>
+  <Customer>
+    <Name>Joe</Name>
+    <Currency>Euro</Currency>
+    <Cash>1657</Cash>
+  </Customer>
+  <Customer>
+    <Name>Steve</Name>
+    <Currency>Rubl</Currency>
+    <Cash>125456</Cash>
+  </Customer>
+</ArrayOfCustomer>

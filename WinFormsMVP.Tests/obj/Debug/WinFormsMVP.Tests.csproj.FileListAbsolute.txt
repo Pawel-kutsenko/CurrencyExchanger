@@ -1,0 +1,13 @@
+C:\Users\Xiaomi\Desktop\winforms-mvp-master\winforms-mvp-master\WinFormsMVP\WinFormsMVP.Tests\obj\Debug\WinFormsMVP.Tests.csprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\winforms-mvp-master\winforms-mvp-master\WinFormsMVP\WinFormsMVP.Tests\bin\Debug\WinFormsMVP.Tests.dll
+C:\Users\Xiaomi\Desktop\winforms-mvp-master\winforms-mvp-master\WinFormsMVP\WinFormsMVP.Tests\bin\Debug\WinFormsMVP.Tests.pdb
+C:\Users\Xiaomi\Desktop\winforms-mvp-master\winforms-mvp-master\WinFormsMVP\WinFormsMVP.Tests\bin\Debug\Moq.dll
+C:\Users\Xiaomi\Desktop\winforms-mvp-master\winforms-mvp-master\WinFormsMVP\WinFormsMVP.Tests\bin\Debug\WinFormsMVP.exe
+C:\Users\Xiaomi\Desktop\winforms-mvp-master\winforms-mvp-master\WinFormsMVP\WinFormsMVP.Tests\bin\Debug\xunit.dll
+C:\Users\Xiaomi\Desktop\winforms-mvp-master\winforms-mvp-master\WinFormsMVP\WinFormsMVP.Tests\bin\Debug\WinFormsMVP.pdb
+C:\Users\Xiaomi\Desktop\winforms-mvp-master\winforms-mvp-master\WinFormsMVP\WinFormsMVP.Tests\bin\Debug\Moq.pdb
+C:\Users\Xiaomi\Desktop\winforms-mvp-master\winforms-mvp-master\WinFormsMVP\WinFormsMVP.Tests\bin\Debug\Moq.xml
+C:\Users\Xiaomi\Desktop\winforms-mvp-master\winforms-mvp-master\WinFormsMVP\WinFormsMVP.Tests\bin\Debug\xunit.xml
+C:\Users\Xiaomi\Desktop\winforms-mvp-master\winforms-mvp-master\WinFormsMVP\WinFormsMVP.Tests\obj\Debug\WinFormsMVP.Tests.csproj.CopyComplete
+C:\Users\Xiaomi\Desktop\winforms-mvp-master\winforms-mvp-master\WinFormsMVP\WinFormsMVP.Tests\obj\Debug\WinFormsMVP.Tests.dll
+C:\Users\Xiaomi\Desktop\winforms-mvp-master\winforms-mvp-master\WinFormsMVP\WinFormsMVP.Tests\obj\Debug\WinFormsMVP.Tests.pdb
