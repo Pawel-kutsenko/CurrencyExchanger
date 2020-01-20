@@ -2,17 +2,17 @@
 <ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Customer>
     <Name>John</Name>
-    <Currency>Yena</Currency>
-    <Cash>125456</Cash>
+    <Currency>usd</Currency>
+    <Cash>2,11</Cash>
   </Customer>
   <Customer>
     <Name>Joe</Name>
-    <Currency>Euro</Currency>
-    <Cash>1657</Cash>
+    <Currency>eur</Currency>
+    <Cash>1111,11111111111</Cash>
   </Customer>
   <Customer>
     <Name>Steve</Name>
-    <Currency>Rubl</Currency>
-    <Cash>125456</Cash>
+    <Currency>rub</Currency>
+    <Cash>4,2654028436019</Cash>
   </Customer>
 </ArrayOfCustomer>

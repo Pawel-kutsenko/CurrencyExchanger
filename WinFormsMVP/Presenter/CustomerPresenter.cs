@@ -1,6 +1,7 @@
 ﻿using WinFormsMVP.View;
 using WinFormsMVP.Model;
 using System.Linq;
+using System;
 
 namespace WinFormsMVP.Presenter
 {
@@ -8,6 +9,9 @@ namespace WinFormsMVP.Presenter
     {
         private readonly ICustomerView _view;
         private readonly ICustomerRepository _repository;
+
+        private double usdToRub = 2.11;
+        private double usdToEur = 0.9;
 
         public CustomerPresenter(ICustomerView view, ICustomerRepository repository)
         {
@@ -52,6 +56,48 @@ namespace WinFormsMVP.Presenter
         public void RemoveCustomer(int id)
         {
             _repository.RemoveCustomer(id);
+        }
+
+        public void CurrencyExchange(string cashF, string cashT, string cashI)
+        {
+            double temp = 0;
+
+            if (String.Compare(cashF, cashT) == 0) _view.Cash = cashI;
+            else if (String.Compare(cashF, "usd") == 0)
+            {
+                if (String.Compare(cashT, "eur") == 0)
+                {
+                    temp = int.Parse(cashI) * usdToEur;
+                } else if (String.Compare(cashT, "rub") == 0)
+                {
+                    temp = int.Parse(cashI) * usdToRub;
+                }
+                _view.Cash = temp.ToString();
+            }
+            else if (String.Compare(cashF, "eur") == 0)
+            {
+                if (String.Compare(cashT, "usd") == 0)
+                {
+                    temp = int.Parse(cashI) / usdToEur;
+                }
+                else if (String.Compare(cashT, "rub") == 0)
+                {
+                    temp = int.Parse(cashI) / usdToEur * usdToRub;
+                }
+                _view.Cash = temp.ToString();
+            }
+            else if (String.Compare(cashF, "rub") == 0)
+            {
+                if (String.Compare(cashT, "usd") == 0)
+                {
+                    temp = int.Parse(cashI) / usdToRub;
+                }
+                else if (String.Compare(cashT, "eur") == 0)
+                {
+                    temp = int.Parse(cashI) / usdToRub * usdToEur;
+                }
+                _view.Cash = temp.ToString();
+            }
         }
     }
 }

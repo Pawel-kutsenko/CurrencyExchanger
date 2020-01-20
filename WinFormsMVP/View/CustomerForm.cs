@@ -25,8 +25,8 @@ namespace WinFormsMVP.View
 
         public string Currency
         {
-            get { return this.currencyTextBox.Text; }
-            set { this.currencyTextBox.Text = value; }
+            get { return this.currency_cb.Text; }
+            set { this.currency_cb.Text = value; }
         }
 
         public string CustomerName
@@ -57,7 +57,7 @@ namespace WinFormsMVP.View
 
         private void saveBtn_Click(object sender, EventArgs e)
         {
-            Presenter.AddCustomer(this.nameTextBox.Text, this.currencyTextBox.Text, this.cashTextBox.Text);
+            Presenter.AddCustomer(this.nameTextBox.Text, this.currency_cb.Text, this.cashTextBox.Text);
             Presenter.UpdateCustomerListView();
         }
 
@@ -65,6 +65,11 @@ namespace WinFormsMVP.View
         {
             Presenter.RemoveCustomer(customerListBox.SelectedIndex);
             Presenter.UpdateCustomerListView();
+        }
+
+        private void CashInputChanged(object sender, EventArgs e)
+        {
+            Presenter.CurrencyExchange(this.currency_cb.Text, this.currency_to_cb.Text, this.out_textbox.Text);
         }
     }
 }
